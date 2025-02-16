@@ -35,4 +35,8 @@ The are no dependancies to Run this project, other than the libraries like pygam
 
 Screenshoots of the Game while in motion are store on the folder called "Game ScreenShoots"
 
+## Further Improvements:
+
+Further improvements to the Game will follow, that includes adding score and points, adding sound to the game and more.
+
 
