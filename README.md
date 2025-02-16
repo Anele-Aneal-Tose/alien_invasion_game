@@ -15,6 +15,10 @@ The player then controls the Ship which is located at the bottom of the game win
 ### Fourth Step: 
 The game changes in speed as the player destroys all the Aliens, and if the Alien touches the Ship or the bottom of the game window a new game starts up until four chances given to the player then the game is Over!!!
 
+### Fifth Step:
+
+To Quit the Game press "q" button on the keyboard.
+
 ## Dependancies to Run the Game:
 
 The are no dependancies to Run this project, other than the libraries like pygame and Sys that you need to install before developing the game.
