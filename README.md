@@ -1,4 +1,4 @@
-                                              # Alien Invasion Game
+# Alien Invasion Game
 
 ## About the Game:
 
